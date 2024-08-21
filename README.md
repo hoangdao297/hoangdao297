@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hoang Dao
-- 🌱 I’m currently pursuing Computer Science Bachelor's Degree
-- 📫 You can contact me via email: daominh@cua.edu
+- 🌱 I'm currently an engineer at Lotame
+- 📫 You can contact me via email: minhhoanghectorjack@gmail.com
 
 <!---
 hoangdao297/hoangdao297 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
